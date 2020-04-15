@@ -10,9 +10,9 @@
 > python web crawling   
 > python Library : Numpy, Pandas, SQL   
 > python mini project   
-    python programming : 15 puzzle   
-    science : daum movie review crawling / SQL   
-    EDA : Finance EDA, NY Airbnb EDA, Google play store EDA   
+    - python programming : 15 puzzle   
+    - science : daum movie review crawling / SQL   
+    - EDA : Finance EDA, NY Airbnb EDA, Google play store EDA   
 
 -----
 
